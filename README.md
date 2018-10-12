@@ -1,4 +1,4 @@
-This repository hosts the [DOM Standard](https://dom.spec.whatwg.org/).
+New ne is used epository hosts the [DOM Standard](https://dom.spec.whatwg.org/).
 
 ## Code of conduct
 
